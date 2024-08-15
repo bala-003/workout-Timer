@@ -19,6 +19,7 @@ export function Form() {
   function handleSelect(e) {
     dispatch({ type: "workout", payload: e.target.value });
   }
+  console.log("Welcome");
   return (
     <form className={style.container}>
       <div className={style.grid}>
