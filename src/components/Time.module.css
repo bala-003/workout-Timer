@@ -1,0 +1,15 @@
+.box {
+  text-transform: uppercase;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  background-color: rgb(184, 184, 184);
+  color: rgb(83, 83, 83);
+  width: auto;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}

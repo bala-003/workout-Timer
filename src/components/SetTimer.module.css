@@ -1,0 +1,8 @@
+.time {
+  font-size: 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  background: linear-gradient(to top, rgb(0, 0, 0), rgb(133, 133, 133));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

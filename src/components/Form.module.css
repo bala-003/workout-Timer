@@ -1,0 +1,22 @@
+.container {
+  width: 400px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.grid {
+  display: grid;
+  margin-bottom: 10px;
+  grid-template-columns: 170px 130px 130px;
+  align-items: center;
+}
+label {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  font-weight: 500;
+}
+
+p {
+  font-weight: 500;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
